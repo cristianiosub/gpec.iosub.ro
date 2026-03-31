@@ -1,0 +1,8 @@
+# Configuration
+config.php
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
